@@ -1,4 +1,4 @@
-# Caso-Carlinhos
+# Caso Carlinhos
 Canal Colecionador de Ossos
 
 # Fontes e Referências da matéria:
